@@ -27,6 +27,7 @@
 * [About the Project](#about-the-project)
 * [Installation](#installation)
 * [Usage](#usage)
+* [API](#api)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -75,6 +76,9 @@ identity.generate(country, gender)
 This will console.log() Just the informations you required.  
 At the bottom of every identity generated, you will find a link to access the e-mail you received.  
 
+<!-- API -->
+## Api
+The api used in this project is (Name Fake)[https://namefake.com/api]
 <!-- CONTACT -->
 ## Contact
 
