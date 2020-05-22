@@ -1,0 +1,39 @@
+{
+  "_from": "identity-generator@1.0.1",
+  "_id": "identity-generator@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-QlaV4sjMOqVuCwZipNQEgOPS1DX+XFP2p4eH624pSW1IQj2f2QMmuJ2luXbX4ZSKFX6P7TqjHN3u3W2FlkzIsA==",
+  "_location": "/identity-generator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "identity-generator@1.0.1",
+    "name": "identity-generator",
+    "escapedName": "identity-generator",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/identity-generator/-/identity-generator-1.0.1.tgz",
+  "_shasum": "78b5d9e0056cc159d76e74a8ad78e88f4751fa92",
+  "_spec": "identity-generator@1.0.1",
+  "_where": "C:\\Users\\Silvano\\Desktop\\test",
+  "author": {
+    "name": "Silvano Hirtie"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Generate random identity for your node.js application",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "identity-generator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}
