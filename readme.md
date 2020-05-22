@@ -9,7 +9,7 @@
   <h3 align="center">Identity Generator</h3>
 
   <p align="center">
-    Avanced Identity generator tool for Console/Web Applications.
+    Avanced Identity generator module for Console/Web Applications.
     <br />
     <a href="https://github.com/silvanohirtie/identity-generator/blob/master/server.ts">View Source</a>
     ·
