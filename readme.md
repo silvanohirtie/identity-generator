@@ -78,7 +78,7 @@ At the bottom of every identity generated, you will find a link to access the e-
 
 <!-- API -->
 ## Api
-The api used in this project is (Name Fake)[https://namefake.com/api]
+The api used in this project is [Name Fake](https://namefake.com/api)
 <!-- CONTACT -->
 ## Contact
 
