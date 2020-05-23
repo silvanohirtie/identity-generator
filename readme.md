@@ -11,7 +11,7 @@
   <p align="center">
     Avanced Identity generator module for Console/Web Applications.
     <br />
-    <a href="https://github.com/silvanohirtie/identity-generator/blob/master/server.ts">View Source</a>
+    <a href="https://github.com/silvanohirtie/identity-generator/blob/master/index.js">View Source</a>
     ·
     <a href="https://github.com/silvanohirtie/identity-generator/issues">Report Bug</a>
     ·
