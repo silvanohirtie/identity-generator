@@ -82,7 +82,7 @@ The api used in this project is [Name Fake](https://namefake.com/api)
 <!-- CONTACT -->
 ## Contact
 
-Discord: Silvano#8106 - hirtie.silvano@gmail.com
+Discord: Silvano#1337 - hirtie.silvano@gmail.com
 
 Project Link: [https://github.com/silvanohirtie/identity-generator](https://github.com/silvanohirtie/identity-generator)
 
